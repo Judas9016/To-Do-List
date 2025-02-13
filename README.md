@@ -19,4 +19,4 @@ Pequeña aplicación de lista de tareas desarrollada con **Astro**, que permite 
 
 1. Clona este repositorio:  
    ```bash
-   git clone https://github.com/Judas9016/To-Do-List
+   git clone https://github.com/Judas9016/To-Do-List.git
